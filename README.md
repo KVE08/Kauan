@@ -1,5 +1,5 @@
 ## bem vindo ao meu perfil
-meu nome é Kaun
+meu nome é Kauan
 
 - Estou estudando no [Alura](https://www.alura.com.br)
 - Estou aprendendo JavaScript
